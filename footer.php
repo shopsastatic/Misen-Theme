@@ -1,7 +1,6 @@
 <!-- Footer -->
 <footer class="bg-gray-900 text-white py-16 px-4 sm:px-6">
     <div class="max-w-6xl mx-auto">
-        <!-- Top Section -->
         <div class="mb-12">
             <div class="flex items-center gap-3 mb-6">
                 <div class="w-10 h-10 bg-white rounded-xl flex items-center justify-center">
